@@ -1,16 +1,17 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**YuriCadeville/YuriCadeville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Yuri, tenho 23 anos e este é o meu GitHub
 
-Here are some ideas to get you started:
+#Estudos: No momento sou um estudante de programação, comecei aprendendo HTML, CSS e JAVA por curiosidade
+e hoje estou cursando faculdade de Análise e Desenvolvimento de Sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#No momento estou desempregado mas estou estudando para mudar isso o mais breve possível.
+
+#Sobre mim: Sou Técnico de Áudio nas horas vagas, amo tocar guitarra, jogar Valorant e League of Legends. 
+
+#Sou novo na plataforma e espero poder contribuir em muitos projetos futuramente.
+
+#No momento estou participando da NLW#02 pela **Rocketseat** e aprendendo muito mais do que eu esperava :heart:
+
+📫 Email: yuri.cadeville@gmail.com
+
