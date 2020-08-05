@@ -13,5 +13,5 @@ e hoje estou cursando faculdade de Análise e Desenvolvimento de Sistemas.
 
 #No momento estou participando da NLW#02 pela **Rocketseat** e aprendendo muito mais do que eu esperava :heart:
 
-📫 Email: yuri.cadeville@gmail.com
+📫 Email: yuri.cadeville@gmail.com // Linkedin: https://www.linkedin.com/in/yuri-cadeville-880773156/
 
